@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Nginx",
+    "path": "nginx",
+    "args": ["-g", "daemon off;"]
+  },
+  {
+    "name": "PHP-FPM",
+    "path": "php-fpm",
+    "args": []
+  }
+]
